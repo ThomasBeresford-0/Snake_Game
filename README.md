@@ -21,7 +21,7 @@ A classic Snake game implementation using Python and Pygame. The game allows pla
 
 ### Prerequisites
 
-- Python 3.x
+- Python 
 - Pygame library
 
 ### Installation
